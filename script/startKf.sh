@@ -1,0 +1,2 @@
+            cd /data/erl/config
+                /data/erlang/bin/erl -smp enable -hidden -name qudaoljkfgame33410@qudaolj334.jzy.suyougame.cn -setcookie shenhai001NnJQua27Qal82zHpz -config cls -pa ../ebin -s gsrv start -extra qudaoljkf334.jzy.suyougame.cn 9100 10 #lburl
